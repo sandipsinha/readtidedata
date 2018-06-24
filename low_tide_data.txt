@@ -1,0 +1,640 @@
+Location: Providence, Rhode Island
+     Day: Friday 22 June
+     Time: 11:57 PM
+     Height: 0.25 m
+
+     Day: Friday 22 June
+     Time: 11:57 PM
+     Height: 0.25 m
+
+     Day: Saturday 23 June
+     Time: 10:22 AM
+     Height: 0.19 m
+
+     Day: Sunday 24 June
+     Time: 11:06 AM
+     Height: 0.17 m
+
+     Day: Monday 25 June
+     Time: 11:47 AM
+     Height: 0.15 m
+
+     Day: Tuesday 26 June
+     Time: 12:29 PM
+     Height: 0.13 m
+
+     Day: Wednesday 27 June
+     Time:  1:12 PM
+     Height: 0.12 m
+
+     Day: Thursday 28 June
+     Time:  1:56 PM
+     Height: 0.12 m
+
+     Day: Friday 29 June
+     Time:  2:40 PM
+     Height: 0.12 m
+
+     Day: Saturday 30 June
+     Time:  3:23 PM
+     Height: 0.13 m
+
+     Day: Sunday 1 July
+     Time:  4:05 PM
+     Height: 0.15 m
+
+     Day: Monday 2 July
+     Time:  4:47 PM
+     Height: 0.18 m
+
+     Day: Tuesday 3 July
+     Time:  5:30 PM
+     Height: 0.21 m
+
+     Day: Wednesday 4 July
+     Time:  6:17 PM
+     Height: 0.23 m
+
+     Day: Wednesday 4 July
+     Time:  6:17 PM
+     Height: 0.23 m
+
+     Day: Thursday 5 July
+     Time:  7:10 PM
+     Height: 0.26 m
+
+     Day: Thursday 5 July
+     Time:  7:10 PM
+     Height: 0.26 m
+
+     Day: Friday 6 July
+     Time:  8:11 PM
+     Height: 0.25 m
+
+     Day: Friday 6 July
+     Time:  8:11 PM
+     Height: 0.25 m
+
+     Day: Saturday 7 July
+     Time:  9:14 PM
+     Height: 0.20 m
+
+     Day: Saturday 7 July
+     Time:  9:14 PM
+     Height: 0.20 m
+
+     Day: Sunday 8 July
+     Time: 10:16 PM
+     Height: 0.12 m
+
+     Day: Sunday 8 July
+     Time: 10:16 PM
+     Height: 0.12 m
+
+     Day: Monday 9 July
+     Time: 11:15 PM
+     Height: 0.02 m
+
+     Day: Monday 9 July
+     Time: 11:15 PM
+     Height: 0.02 m
+
+     Day: Tuesday 10 July
+     Time: 11:26 AM
+     Height: -0.07 m
+
+     Day: Wednesday 11 July
+     Time: 12:22 PM
+     Height: -0.12 m
+
+     Day: Thursday 12 July
+     Time:  1:18 PM
+     Height: -0.16 m
+
+     Day: Friday 13 July
+     Time:  2:16 PM
+     Height: -0.18 m
+
+     Day: Saturday 14 July
+     Time:  3:12 PM
+     Height: -0.17 m
+
+     Day: Sunday 15 July
+     Time:  4:05 PM
+     Height: -0.14 m
+
+     Day: Monday 16 July
+     Time:  4:56 PM
+     Height: -0.06 m
+
+     Day: Tuesday 17 July
+     Time:  5:47 PM
+     Height: 0.04 m
+
+     Day: Wednesday 18 July
+     Time:  6:39 PM
+     Height: 0.15 m
+
+     Day: Wednesday 18 July
+     Time:  6:39 PM
+     Height: 0.15 m
+
+     Day: Thursday 19 July
+     Time:  7:36 PM
+     Height: 0.26 m
+
+     Day: Thursday 19 July
+     Time:  7:36 PM
+     Height: 0.26 m
+
+     Day: Friday 20 July
+     Time: 10:46 PM
+     Height: 0.34 m
+
+     Day: Friday 20 July
+     Time: 10:46 PM
+     Height: 0.34 m
+
+     Day: Friday 20 July
+     Time: 10:46 PM
+     Height: 0.34 m
+
+     Day: Saturday 21 July
+     Time: 11:47 PM
+     Height: 0.33 m
+
+     Day: Saturday 21 July
+     Time: 11:47 PM
+     Height: 0.33 m
+
+     Day: Sunday 22 July
+     Time:  9:40 AM
+     Height: 0.26 m
+
+Location: Huntington Beach
+     Day: Friday 22 June
+     Time: 11:50 AM
+     Height: 0.77 meters
+
+     Day: Saturday 23 June
+     Time: 12:36 PM
+     Height: 0.86 meters
+
+     Day: Sunday 24 June
+     Time:  1:18 PM
+     Height: 0.93 meters
+
+     Day: Monday 25 June
+     Time:  1:55 PM
+     Height: 0.98 meters
+
+     Day: Tuesday 26 June
+     Time:  2:30 PM
+     Height: 1.02 meters
+
+     Day: Wednesday 27 June
+     Time:  3:05 PM
+     Height: 1.04 meters
+
+     Day: Thursday 28 June
+     Time:  3:39 PM
+     Height: 1.07 meters
+
+     Day: Friday 29 June
+     Time:  4:14 PM
+     Height: 1.10 meters
+
+     Day: Saturday 30 June
+     Time:  4:50 PM
+     Height: 1.14 meters
+
+     Day: Tuesday 3 July
+     Time:  7:20 PM
+     Height: 1.25 meters
+
+     Day: Tuesday 3 July
+     Time:  7:20 PM
+     Height: 1.25 meters
+
+     Day: Wednesday 4 July
+     Time:  8:42 PM
+     Height: 1.23 meters
+
+     Day: Wednesday 4 July
+     Time:  8:42 PM
+     Height: 1.23 meters
+
+     Day: Thursday 5 July
+     Time: 10:14 PM
+     Height: 1.13 meters
+
+     Day: Thursday 5 July
+     Time: 10:14 PM
+     Height: 1.13 meters
+
+     Day: Friday 6 July
+     Time: 11:31 PM
+     Height: 0.96 meters
+
+     Day: Friday 6 July
+     Time: 11:31 PM
+     Height: 0.96 meters
+
+     Day: Saturday 7 July
+     Time: 10:27 AM
+     Height: 0.87 meters
+
+     Day: Sunday 8 July
+     Time: 11:23 AM
+     Height: 0.92 meters
+
+     Day: Monday 9 July
+     Time: 12:18 PM
+     Height: 0.94 meters
+
+     Day: Tuesday 10 July
+     Time:  1:11 PM
+     Height: 0.95 meters
+
+     Day: Wednesday 11 July
+     Time:  2:02 PM
+     Height: 0.93 meters
+
+     Day: Thursday 12 July
+     Time:  2:54 PM
+     Height: 0.92 meters
+
+     Day: Friday 13 July
+     Time:  3:45 PM
+     Height: 0.91 meters
+
+     Day: Saturday 14 July
+     Time:  4:39 PM
+     Height: 0.91 meters
+
+     Day: Tuesday 17 July
+     Time:  7:58 PM
+     Height: 0.98 meters
+
+     Day: Tuesday 17 July
+     Time:  7:58 PM
+     Height: 0.98 meters
+
+     Day: Wednesday 18 July
+     Time:  9:26 PM
+     Height: 0.95 meters
+
+     Day: Wednesday 18 July
+     Time:  9:26 PM
+     Height: 0.95 meters
+
+     Day: Thursday 19 July
+     Time: 10:56 PM
+     Height: 0.85 meters
+
+     Day: Thursday 19 July
+     Time: 10:56 PM
+     Height: 0.85 meters
+
+     Day: Friday 20 July
+     Time: 10:12 AM
+     Height: 0.86 meters
+
+     Day: Saturday 21 July
+     Time: 11:12 AM
+     Height: 0.97 meters
+
+     Day: Sunday 22 July
+     Time: 12:08 PM
+     Height: 1.04 meters
+
+Location: Half Moon Bay, California
+     Day: Friday 22 June
+     Time: 12:54 PM
+     Height: 0.40 m
+
+     Day: Saturday 23 June
+     Time:  1:47 PM
+     Height: 0.53 m
+
+     Day: Sunday 24 June
+     Time:  2:37 PM
+     Height: 0.65 m
+
+     Day: Monday 25 June
+     Time:  3:24 PM
+     Height: 0.73 m
+
+     Day: Tuesday 26 June
+     Time:  4:08 PM
+     Height: 0.80 m
+
+     Day: Wednesday 27 June
+     Time:  4:49 PM
+     Height: 0.85 m
+
+     Day: Thursday 28 June
+     Time:  5:30 PM
+     Height: 0.88 m
+
+     Day: Sunday 1 July
+     Time:  7:35 PM
+     Height: 0.93 m
+
+     Day: Sunday 1 July
+     Time:  7:35 PM
+     Height: 0.93 m
+
+     Day: Monday 2 July
+     Time:  8:26 PM
+     Height: 0.91 m
+
+     Day: Monday 2 July
+     Time:  8:26 PM
+     Height: 0.91 m
+
+     Day: Tuesday 3 July
+     Time:  9:24 PM
+     Height: 0.87 m
+
+     Day: Tuesday 3 July
+     Time:  9:24 PM
+     Height: 0.87 m
+
+     Day: Wednesday 4 July
+     Time: 10:28 PM
+     Height: 0.79 m
+
+     Day: Wednesday 4 July
+     Time: 10:28 PM
+     Height: 0.79 m
+
+     Day: Thursday 5 July
+     Time: 11:34 PM
+     Height: 0.66 m
+
+     Day: Thursday 5 July
+     Time: 11:34 PM
+     Height: 0.66 m
+
+     Day: Friday 6 July
+     Time: 10:58 AM
+     Height: 0.37 m
+
+     Day: Saturday 7 July
+     Time: 11:52 AM
+     Height: 0.50 m
+
+     Day: Sunday 8 July
+     Time: 12:48 PM
+     Height: 0.60 m
+
+     Day: Monday 9 July
+     Time:  1:44 PM
+     Height: 0.69 m
+
+     Day: Tuesday 10 July
+     Time:  2:40 PM
+     Height: 0.74 m
+
+     Day: Wednesday 11 July
+     Time:  3:34 PM
+     Height: 0.76 m
+
+     Day: Thursday 12 July
+     Time:  4:27 PM
+     Height: 0.76 m
+
+     Day: Friday 13 July
+     Time:  5:21 PM
+     Height: 0.74 m
+
+     Day: Sunday 15 July
+     Time:  7:16 PM
+     Height: 0.68 m
+
+     Day: Sunday 15 July
+     Time:  7:16 PM
+     Height: 0.68 m
+
+     Day: Monday 16 July
+     Time:  8:19 PM
+     Height: 0.64 m
+
+     Day: Monday 16 July
+     Time:  8:19 PM
+     Height: 0.64 m
+
+     Day: Tuesday 17 July
+     Time:  9:28 PM
+     Height: 0.59 m
+
+     Day: Tuesday 17 July
+     Time:  9:28 PM
+     Height: 0.59 m
+
+     Day: Wednesday 18 July
+     Time: 10:41 PM
+     Height: 0.51 m
+
+     Day: Wednesday 18 July
+     Time: 10:41 PM
+     Height: 0.51 m
+
+     Day: Thursday 19 July
+     Time: 11:54 PM
+     Height: 0.40 m
+
+     Day: Thursday 19 July
+     Time: 11:54 PM
+     Height: 0.40 m
+
+     Day: Friday 20 July
+     Time: 11:25 AM
+     Height: 0.47 m
+
+     Day: Saturday 21 July
+     Time: 12:24 PM
+     Height: 0.63 m
+
+     Day: Sunday 22 July
+     Time:  1:23 PM
+     Height: 0.74 m
+
+Location: Wrightsville Beach, North Carolina
+     Day: Friday 22 June
+     Time: 10:30 PM
+     Height: 0.06 m
+
+     Day: Friday 22 June
+     Time: 10:30 PM
+     Height: 0.06 m
+
+     Day: Saturday 23 June
+     Time: 11:21 PM
+     Height: 0.06 m
+
+     Day: Saturday 23 June
+     Time: 11:21 PM
+     Height: 0.06 m
+
+     Day: Sunday 24 June
+     Time: 11:27 AM
+     Height: -0.05 m
+
+     Day: Monday 25 June
+     Time: 12:11 PM
+     Height: -0.03 m
+
+     Day: Tuesday 26 June
+     Time: 12:54 PM
+     Height: -0.02 m
+
+     Day: Wednesday 27 June
+     Time:  1:37 PM
+     Height: -0.01 m
+
+     Day: Thursday 28 June
+     Time:  2:18 PM
+     Height: 0.01 m
+
+     Day: Friday 29 June
+     Time:  2:56 PM
+     Height: 0.03 m
+
+     Day: Saturday 30 June
+     Time:  3:33 PM
+     Height: 0.06 m
+
+     Day: Sunday 1 July
+     Time:  4:09 PM
+     Height: 0.10 m
+
+     Day: Monday 2 July
+     Time:  4:46 PM
+     Height: 0.14 m
+
+     Day: Tuesday 3 July
+     Time:  5:27 PM
+     Height: 0.19 m
+
+     Day: Wednesday 4 July
+     Time:  6:18 PM
+     Height: 0.23 m
+
+     Day: Wednesday 4 July
+     Time:  6:18 PM
+     Height: 0.23 m
+
+     Day: Thursday 5 July
+     Time:  7:25 PM
+     Height: 0.24 m
+
+     Day: Thursday 5 July
+     Time:  7:25 PM
+     Height: 0.24 m
+
+     Day: Friday 6 July
+     Time:  8:33 PM
+     Height: 0.22 m
+
+     Day: Friday 6 July
+     Time:  8:33 PM
+     Height: 0.22 m
+
+     Day: Saturday 7 July
+     Time:  9:34 PM
+     Height: 0.16 m
+
+     Day: Saturday 7 July
+     Time:  9:34 PM
+     Height: 0.16 m
+
+     Day: Sunday 8 July
+     Time: 10:30 PM
+     Height: 0.09 m
+
+     Day: Sunday 8 July
+     Time: 10:30 PM
+     Height: 0.09 m
+
+     Day: Monday 9 July
+     Time: 11:26 PM
+     Height: 0.02 m
+
+     Day: Monday 9 July
+     Time: 11:26 PM
+     Height: 0.02 m
+
+     Day: Tuesday 10 July
+     Time: 11:21 AM
+     Height: -0.16 m
+
+     Day: Wednesday 11 July
+     Time: 12:17 PM
+     Height: -0.21 m
+
+     Day: Thursday 12 July
+     Time:  1:14 PM
+     Height: -0.25 m
+
+     Day: Friday 13 July
+     Time:  2:11 PM
+     Height: -0.28 m
+
+     Day: Saturday 14 July
+     Time:  3:06 PM
+     Height: -0.28 m
+
+     Day: Sunday 15 July
+     Time:  3:59 PM
+     Height: -0.24 m
+
+     Day: Monday 16 July
+     Time:  4:53 PM
+     Height: -0.16 m
+
+     Day: Tuesday 17 July
+     Time:  5:52 PM
+     Height: -0.06 m
+
+     Day: Wednesday 18 July
+     Time:  6:58 PM
+     Height: 0.03 m
+
+     Day: Wednesday 18 July
+     Time:  6:58 PM
+     Height: 0.03 m
+
+     Day: Thursday 19 July
+     Time:  8:08 PM
+     Height: 0.10 m
+
+     Day: Thursday 19 July
+     Time:  8:08 PM
+     Height: 0.10 m
+
+     Day: Friday 20 July
+     Time:  9:11 PM
+     Height: 0.13 m
+
+     Day: Friday 20 July
+     Time:  9:11 PM
+     Height: 0.13 m
+
+     Day: Saturday 21 July
+     Time: 10:07 PM
+     Height: 0.15 m
+
+     Day: Saturday 21 July
+     Time: 10:07 PM
+     Height: 0.15 m
+
+     Day: Sunday 22 July
+     Time: 10:57 PM
+     Height: 0.16 m
+
+     Day: Sunday 22 July
+     Time: 10:57 PM
+     Height: 0.16 m
+
