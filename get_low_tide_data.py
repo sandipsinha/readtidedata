@@ -1,9 +1,10 @@
 import urllib2
 from bs4 import BeautifulSoup
 import tidecfg as cfg
-import json
- 
 
+
+ 
+#Main class which is responsible for interpretting the scrapped data off the site
 class tideclass(object):
     
     def __new__(self,location):
@@ -21,7 +22,6 @@ class tideclass(object):
         
     def read_low_tide_data(self):
         table = self.tidedata.find('table')
-        row_num = 0
         sunrise_ind = False
         low_tide_data=[]
         daily_record = {}
@@ -29,28 +29,21 @@ class tideclass(object):
             columns = tr.find_all('td')
             ##At the start of rows with weekday reset each counters
             if (columns[0].getText()).startswith(cfg.weeknames):
-                row_num = 0
-                event_date = ''
-                low_tide_time = ''
-                low_tide_height = ''
                 sunrise_ind = False
                 daily_record = {}
             #get the day information at the start of a given set of day activities
-            if row_num == 0:
-                event_date = columns[0].getText()
                 daily_record['event_date'] = columns[0].getText()
-            else:
-                #if it has already encountered a sun rise then look for a row with Low Tide data
-                #And record the height and time for that low tide
-                if sunrise_ind:
-                    if columns[4].getText() == 'Low Tide':
-                        daily_record['low_tide_time'] = columns[0].getText()
-                        daily_record['low_tide_height'] = columns[2].getText()
-                        low_tide_data.append(daily_record) 
-                if columns[4].getText() == 'Sunrise':
-                    sunrise_ind = True
-
-            row_num += 1 
+            if columns[4].getText() == 'Sunrise' or (len(columns) >= 6 and columns[5].getText() == 'Sunrise'):
+                sunrise_ind = True
+            if columns[4].getText() == 'Sunset' or (len(columns) >= 6 and columns[5].getText() == 'Sunset'):
+                sunrise_ind = False
+            if sunrise_ind:
+                if columns[4].getText() == 'Low Tide':
+                    daily_record['low_tide_time'] = columns[0].getText()
+                    daily_record['low_tide_height'] = columns[2].getText()
+                    low_tide_data.append({k:v for k,v in daily_record.items()})
+                    daily_record['low_tide_time'] = ''
+                    daily_record['low_tide_height'] = ''
         return low_tide_data
  
 def create_output(low_tide_dict):
@@ -73,9 +66,6 @@ def main():
         create_output(tide_repo)
         
     print 'All Done!...'
-            
-
-
 
 
 if __name__=='__main__':
